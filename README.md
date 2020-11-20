@@ -14,7 +14,7 @@
     - `tailwindcss`
     - `autoprefixer`
     - `postcss-import`
-- `inline-critical` - CLI for inlining critical CSS into index.html (critical CSS = `src/styles/global.css`)
+- `inline-critical` - CLI for inlining critical CSS into index.html (critical CSS = everything inside the style tags in `App.svelte`)
 
 ### Used in:
 
