@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+body {
+	@apply antialiased text-gray-900;
+}
+
+.btn {
+	@apply font-mono font-bold py-2 px-4 rounded;
+}
+
+.btn:focus {
+	@apply shadow-outline outline-none;
+}
+
+@tailwind utilities;
