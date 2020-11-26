@@ -19,3 +19,4 @@
 ### Used in:
 
 - [Skayo/Sudoku](https://github.com/Skayo/Sudoku)
+- [muesli/beehive-admin](https://github.com/muesli/beehive-admin)
