@@ -10,7 +10,7 @@ body {
 }
 
 .btn:focus {
-	@apply shadow-outline outline-none;
+	@apply ring outline-none;
 }
 
 @tailwind utilities;
